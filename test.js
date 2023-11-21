@@ -1,9 +1,9 @@
 import test from 'ava';
-import cows from '.';
+import deers from '.';
 
 test('main', t => {
-	const cowList = cows();
-	console.log('Cows:', cowList.length);
-	t.true(Array.isArray(cowList));
-	t.true(cowList.length > 0);
+	const deerList = deers();
+	console.log('Deers:', deerList.length);
+	t.true(Array.isArray(deerList));
+	t.true(deerList.length > 0);
 });

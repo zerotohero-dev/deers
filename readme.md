@@ -1,122 +1,41 @@
-# cows
+# deers
 
-> 400+ ASCII 🐮s
+> some ASCII 🦌s
 
-The list is just a [text file](cows.txt) and can be used wherever.
+Yes, the plural form of “deer” is “deer”, but “deers” is more fun to say.
+
+The list is just a [text file](deers.txt) and can be used wherever.
 
 ![](https://cloud.githubusercontent.com/assets/170270/13090998/a9cdd6b0-d52b-11e5-83ec-614143c9a3bb.png)
 
-
 ## Examples
 
+```text
+ TBD
 ```
-         (__)
-         (oo)
-  /-------\/
- / |     ||
-+  ||----||
-   ~~    ~~
-     Cow
-
-
-       \(:)/
-       (o|o)
-  /-----\_/
- /|      |
-^ ||----||
-  ^^    ^^
- Klingon Cow
-
-
-                 ________________
-         ^__^   /                \
-         (oo)  ( Milk is logical. )
-  /-------\/ --'\________________/
- / |     ||
-*  ||W---||
-   ^^    ^^
-Mr Spock's cow
-
-
-      (__)
-    /   oo      ______
-   |  /\_|     |      \
-   |  |___     |       |
-   |   ---@    |_______|
-*  |  |   ----   |    |
- \ |  |_____
-  \|________|
-        CompuCow
-
-
-        ___________________________
-       | (__)  (__)  (__)   (__)  |
-       | ( oo  ( oo  ( oo   ( oo  |
-_______| /\_|  /\_|  /\_|   /\_|  |________
-|                                         |
-|   _____                        _____    |
-|___|   |________________________|   |____|
-    |___|                        |___|
-              Cow-pooling
-
-
-  /--------------------/
- / |     ||           /          (__)
-*  ||----||          /-----------(oo)
-   ^^    ^^                       \/
-        Network Virtual Cow
-(with separate frontend and backend)
-
-
-         (__)               (__)  |    |  (__)
-         (--)               (--)  |    |  (--)
-  /-------\/   /o    /-------\/   |    I   \/-------\
- / |  M  |----< o   / |  L  |----<T    I>----|  D  | \
-*  ||----|   /  o  *  ||----|     I    I     |----||  *
-   ^^    ^      |     ^^    ^          |     ^    ^^
-                |                      |
-              Teenage Mutant Ninja Cows
-
-                                  @
-               (__)    (__) _____/
-            /| (oo) _  (oo)/----/_____    *
-  _o\______/_|\_\/_/_|__\/|____|//////== *- *  * -
- /_________   \   00 |   00 |       /== -* * -
-[_____/^^\_____\_____|_____/^^\_____]     *- * -
-      \__/                 \__/
-               Cow-mobile
-```
-
 
 ## Install
 
 ```
-$ npm install cows
+$ npm install deers
 ```
 
 
 ## Usage
 
 ```js
-const cows = require('cows');
+const deers = require('deers');
 
-cows();
+deers();
 ```
 
 
 ## API
 
-### cows()
+### deers()
 
-Returns an array of cows.
-
-
-## Related
-
-- [vaca](https://github.com/sindresorhus/vaca) - Get a random ASCII cow 🐮
-- [cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
-
+Returns an array of deers.
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Volkan Özçelik](https://volkan.io/)

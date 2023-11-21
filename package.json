@@ -1,13 +1,13 @@
 {
-	"name": "cows",
-	"version": "2.1.1",
-	"description": "ASCII cows 🐮",
+	"name": "deers",
+	"version": "0.1.3",
+	"description": "ASCII deers 🦌",
 	"license": "MIT",
-	"repository": "sindresorhus/cows",
+	"repository": "zerotohero-dev/deers",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Volkan Özçelik",
+		"email": "me@volkan.io",
+		"url": "https://volkan.io/"
 	},
 	"engines": {
 		"node": ">=6"
@@ -17,12 +17,12 @@
 	},
 	"files": [
 		"index.js",
-		"cows.txt",
-		"cowbell"
+		"deer.txt",
+		"deerbell"
 	],
 	"keywords": [
-		"cows",
-		"cow",
+		"deers",
+		"deer",
 		"ascii"
 	],
 	"devDependencies": {
