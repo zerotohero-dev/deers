@@ -11,7 +11,21 @@ The list is just a [text file](deers.txt) and can be used wherever.
 ## Examples
 
 ```text
- TBD
+  ,_)/
+   (-'
+ .-'\
+  "'\'"""""'),
+     )/---,(
+    / \  / |      , '     , '   , '   ,'   ,'    ,'   ;     ;
+
+
+(             )
+ `--(_   _)--'
+      Y-Y
+     /@@ \
+    /     \
+    `--'.  \             ,
+        |   `.__________/)
 ```
 
 ## Install
@@ -19,7 +33,6 @@ The list is just a [text file](deers.txt) and can be used wherever.
 ```
 $ npm install deers
 ```
-
 
 ## Usage
 
@@ -29,7 +42,6 @@ const deers = require('deers');
 deers();
 ```
 
-
 ## API
 
 ### deers()
@@ -38,4 +50,4 @@ Returns an array of deers.
 
 ## License
 
-MIT © [Volkan Özçelik](https://volkan.io/)
+MIT © [Volkan Özçelik](https://volkan.io/) and contributors.
