@@ -39,7 +39,14 @@ $ npm install deers
 ```js
 const deers = require('deers');
 
+// Returns deers list
 deers();
+
+// Returns selected deer.
+deers()[0];
+
+// Returns a random deer.
+deers().random();
 ```
 
 ## API
@@ -47,6 +54,10 @@ deers();
 ### deers()
 
 Returns an array of deers.
+
+### deers().random()
+
+Returns a random deer.
 
 ## License
 
